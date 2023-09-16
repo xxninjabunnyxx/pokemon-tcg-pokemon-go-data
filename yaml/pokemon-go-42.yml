@@ -1,0 +1,101 @@
+---
+id: pgo-42
+name: Alolan Raticate
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Darkness
+evolvesFrom: Alolan Rattata
+attacks:
+- name: Chase Up
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: ''
+  text: Search your deck for a card and put it into your hand. Then, shuffle your
+    deck.
+- name: Super Fang
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: ''
+  text: Put damage counters on your opponent's Active Pokémon until its remaining
+    HP is 10.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: pgo
+  name: Pokémon GO
+  series: Sword & Shield
+  printedTotal: 78
+  total: 88
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PGO
+  releaseDate: 2022/07/01
+  updatedAt: 2022/07/06 17:07:00
+  images:
+    symbol: https://images.pokemontcg.io/pgo/symbol.png
+    logo: https://images.pokemontcg.io/pgo/logo.png
+number: '42'
+artist: Atsuko Nishida
+rarity: Common
+flavorText: It commands a nest of Rattata. Different nests don't get along, whipping
+  up severe fights over feeding grounds.
+nationalPokedexNumbers:
+- 20
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/pgo/42.png
+  large: https://images.pokemontcg.io/pgo/42_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pgo-42
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.05
+      mid: 0.24
+      high: 2.0
+      market: 0.22
+      directLow: 
+    normal:
+      low: 0.01
+      mid: 0.08
+      high: 3.99
+      market: 0.06
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pgo-42
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.04
+    lowPrice: 0.01
+    trendPrice: 0.03
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.18
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.14
+    lowPriceExPlus: 0.01
+    avg1: 0.03
+    avg7: 0.03
+    avg30: 0.04
+    reverseHoloAvg1: 0.34
+    reverseHoloAvg7: 0.2
+    reverseHoloAvg30: 0.19

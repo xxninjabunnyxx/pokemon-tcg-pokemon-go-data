@@ -1,0 +1,101 @@
+---
+id: pgo-3
+name: Venusaur
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '180'
+types:
+- Grass
+evolvesFrom: Ivysaur
+abilities:
+- name: Loopy Lasso
+  text: Once during your turn, you may flip a coin. If heads, switch 1 of your opponent's
+    Benched Pokémon with their Active Pokémon, and the new Active Pokémon is now Asleep
+    and Poisoned.
+  type: Ability
+attacks:
+- name: Solar Beam
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '130'
+  text: ''
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: pgo
+  name: Pokémon GO
+  series: Sword & Shield
+  printedTotal: 78
+  total: 88
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PGO
+  releaseDate: 2022/07/01
+  updatedAt: 2022/07/06 17:07:00
+  images:
+    symbol: https://images.pokemontcg.io/pgo/symbol.png
+    logo: https://images.pokemontcg.io/pgo/logo.png
+number: '3'
+artist: KEIICHIRO ITO
+rarity: Rare Holo
+flavorText: Its plant blooms when it is absorbing solar energy. It stays on the move
+  to seek sunlight.
+nationalPokedexNumbers:
+- 3
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/pgo/3.png
+  large: https://images.pokemontcg.io/pgo/3_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/pgo-3
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.23
+      mid: 0.5
+      high: 2.78
+      market: 0.46
+      directLow: 
+    holofoil:
+      low: 0.09
+      mid: 0.4
+      high: 9.99
+      market: 0.36
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/pgo-3
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.45
+    lowPrice: 0.02
+    trendPrice: 0.38
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.46
+    reverseHoloLow: 0.13
+    reverseHoloTrend: 0.51
+    lowPriceExPlus: 0.02
+    avg1: 0.31
+    avg7: 0.26
+    avg30: 0.42
+    reverseHoloAvg1: 0.59
+    reverseHoloAvg7: 0.53
+    reverseHoloAvg30: 0.46
